@@ -2,7 +2,7 @@
 
 📍 Lahore ↔ SF ↔ Vancouver | 🧑‍💻 Indie Nomad Dev | 🚀 Infra.one, Sruplex, Ex-Apple, Ex-TheScore, Ex-Slab
 
-I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep focus on real-time and distributed appications. In my free time, I build open-source tools, write at [shyr.io][site], and answer questions on Stack Overflow. I'm also the co-founder of [GDG Lahore][gdglahore], the largest developer community of Pakistan.
+I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep focus on real-time and distributed applications. In my free time, I build open-source tools, write at [shyr.io][site], and answer questions on Stack Overflow. I'm also the co-founder of [GDG Lahore][gdglahore], the largest developer community of Pakistan.
 
 ![Elixir][badge-elixir]
 ![Erlang/OTP][badge-erlang]
@@ -81,27 +81,19 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 [![LinkedIn][badge-linkedin]][social-linkedin]
 [![Stack Overflow][badge-stackoverflow]][social-stackoverflow]
 
-
-
 <!-- Site -->
 [site]: https://shyr.io
-[blog]: https://shyr.io/blog/
 [talks]: https://shyr.io/talks/
-[slab]: https://slab.com
 [gdglahore]: https://gdglahore.com
 [gdg-community]: https://gdg.community.dev/gdg-lahore/
 
 <!-- Social -->
 [social-x]: https://x.com/sheharyarn
-[social-bluesky]: https://bsky.app/profile/sheharyarn.bsky.social
 [social-linkedin]: https://www.linkedin.com/in/sheharyarn
 [social-stackoverflow]: https://stackoverflow.com/users/1533054/sheharyar
 [social-github]: https://github.com/sheharyarn
-[so-tags]: https://stackoverflow.com/users/1533054/sheharyar?tab=tags
 [hex-profile]: https://hex.pm/users/sheharyar
 [gem-profile]: https://rubygems.org/profiles/sheharyar
-[npm-cipherjs]: https://www.npmjs.com/package/cipherjs
-[contrib-graph]: https://gitlyy.vercel.app/api/contribution?username=sheharyarn&hide_border=true
 
 <!-- Featured -->
 [feat-slab-elixir]: https://bit.ly/SlabElixir
@@ -131,31 +123,18 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 [gh-collab]: https://github.com/sheharyarn/collab
 [gh-httpcodes]: https://github.com/sheharyarn/httpcodes.co
 [gh-vncviewer]: https://github.com/sheharyarn/vncviewer
-[gh-httpbin-node]: https://github.com/sheharyarn/httpbin-node
-[gh-s3-upload]: https://github.com/sheharyarn/s3_direct_upload_example
 [gh-geo-bounds]: https://github.com/sheharyarn/geo-bounds
 [gh-ecto-atomized-map]: https://github.com/sheharyarn/ecto_atomized_map
 [gh-ex-gun]: https://github.com/sheharyarn/ex_gun
 [gh-rmd-template]: https://github.com/sheharyarn/rmd-template
-[gh-hello-server]: https://github.com/sheharyarn/hello-server-elixir
 
 <!-- Hex -->
 [hex-memento]: https://hexdocs.pm/memento/
 [hex-yaml]: https://hex.pm/packages/yaml
 
 <!-- Blog -->
-[blog-devfest-2023]: https://shyr.io/blog/devfest-lahore-2023/
 [blog-cloudup]: https://shyr.io/blog/dockerize-apps-with-cloudup/
 [blog-delta]: https://shyr.io/blog/delta-for-elixir/
-[blog-ecto-defaults]: https://shyr.io/blog/ecto-association-defaults/
-[blog-dashbit]: https://shyr.io/blog/dashbit-interview-elixir/
-[blog-plug-crypto]: https://shyr.io/blog/elixir-encrypt-data-plug-crypto/
-[blog-k8s-health]: https://shyr.io/blog/kubernetes-health-probes-elixir/
-[blog-k8s-deploy]: https://shyr.io/blog/deploy-elixir-app-kubernetes-google-cloud/
-[blog-genstage]: https://shyr.io/blog/understanding-genstage-elixir/
-[blog-guards]: https://shyr.io/blog/composable-custom-guards-elixir/
-[blog-nebulex]: https://shyr.io/blog/caching-in-elixir-with-nebulex/
-[blog-blockchain]: https://shyr.io/blog/writing-blockchain-elixir/
 [blog-que]: https://shyr.io/blog/elixir-job-processing-with-que/
 [blog-ecto-rut]: https://shyr.io/blog/ecto-rut-simple-model-shortcuts/
 [blog-better-params]: https://shyr.io/blog/cleaner-request-params-elixir-web-apps/
@@ -163,15 +142,11 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 [blog-mongo-sync-ruby]: https://shyr.io/blog/mongosync-ruby-gem/
 [blog-phoenix-chat]: https://shyr.io/blog/simple-chat-phoenix-elixir/
 [blog-github-trending]: https://shyr.io/blog/github-trending-repos-api/
-[blog-s3-upload]: https://shyr.io/blog/s3-direct-upload-gem-example/
-[blog-so-25k]: https://shyr.io/blog/crossing-25k-reputation-stackoverflow/
-[blog-so-50k]: https://shyr.io/blog/crossing-50000-reputation-stackoverflow/
 
 <!-- Talks -->
 [talk-disciplined-vibes]: https://shyr.io/talks/disciplined-vibes/
 [talk-ai-k8s]: https://shyr.io/talks/scaling-ai-apps-with-kubernetes/
 [talk-flame]: https://shyr.io/talks/flame-better-serverless-k8s/
-[talk-docker-envs]: https://shyr.io/talks/thinking-in-environments-with-docker/
 [talk-collab]: https://shyr.io/talks/real-time-operational-transform/
 [talk-dbfs]: https://shyr.io/talks/blockchain-based-file-storage/
 
@@ -180,16 +155,11 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 [badge-erlang]: https://img.shields.io/badge/-Erlang%2FOTP-A90533?style=flat-square&logo=erlang&logoColor=white
 [badge-phoenix]: https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white
 [badge-javascript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-[badge-nodejs]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
 [badge-ruby]: https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white
 [badge-rails]: https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white
-[badge-docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-[badge-kubernetes]: https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white
-[badge-gcloud]: https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white
 [badge-neovim]: https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white
 [badge-site]: https://img.shields.io/badge/-shyr.io-FF5722?style=flat-square&logo=googlechrome&logoColor=white
 [badge-x]: https://img.shields.io/badge/-sheharyarn-000000?style=flat-square&logo=x&logoColor=white
-[badge-bluesky]: https://img.shields.io/badge/-sheharyarn-00A8E8?style=flat-square&logo=bluesky&logoColor=white
 [badge-linkedin]: https://img.shields.io/badge/-Sheharyar_Naseer-0077B5?style=flat-square&logo=linkedin&logoColor=white
 [badge-stackoverflow]: https://img.shields.io/badge/-76k+_rep-F58025?style=flat-square&logo=stackoverflow&logoColor=white
 [badge-github]: https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white
