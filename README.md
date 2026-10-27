@@ -27,7 +27,7 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 
 ## Projects
 
-### Active (2.1k+ stars · 1.9M+ downloads)
+### Active (2.6k+ stars · 2.4M+ downloads)
 
 - 💾 **[Memento][gh-memento]** (800+ stars, 750k+ downloads) - Elixir interface to the Mnesia distributed database ([docs][hex-memento])
 - ⚡ **[Que][gh-que]** (680+ stars, 480k+ downloads) - Simple job processing with Mnesia ([post][blog-que])
@@ -43,7 +43,7 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 - 🧬 **[Catalyst][gh-catalyst]** - Codemods, generation and scaffolding for Elixir
 
 <details>
-<summary><h3>Retired (790+ stars · 2M+ downloads)</h3></summary>
+<summary><h3>Retired (250+ stars · 1.5M+ downloads)</h3></summary>
 
 - 📡 **[DBFS][gh-dbfs]** (60+ stars) - Distributed file storage on a blockchain ([talk][talk-dbfs])
 - 🛠️ **[capistrano-rake][gh-capistrano-rake]** (40+ stars, 1.4M+ downloads) - Run rake tasks on remote servers
