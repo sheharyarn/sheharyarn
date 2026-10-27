@@ -1,43 +1,29 @@
 # Hi, I'm Sheharyar 👋
 
-📍 Lahore / SF / Vancouver | 🧑‍💻 Indie Nomad Dev | 🚧 Infra.one, Ex-Apple, Ex-TheScore, Ex-Slab
+📍 Lahore ↔ SF ↔ Vancouver | 🧑‍💻 Indie Nomad Dev | 🚀 Infra.one, Sruplex, Ex-Apple, Ex-TheScore, Ex-Slab
 
-I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep focus on real-time and distributed appications. In my free time, I build open-source tools, write at [shyr.io][site], and answer questions on Stack Overflow. I'm also the co-founder of [GDGLahore][gdglahore], the largest developer community of Pakistan.
+I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep focus on real-time and distributed appications. In my free time, I build open-source tools, write at [shyr.io][site], and answer questions on Stack Overflow. I'm also the co-founder of [GDG Lahore][gdglahore], the largest developer community of Pakistan.
 
 ![Elixir][badge-elixir]
 ![Erlang/OTP][badge-erlang]
 ![Phoenix][badge-phoenix]
 ![JavaScript][badge-javascript]
-![Node.js][badge-nodejs]
 ![Ruby][badge-ruby]
 ![Rails][badge-rails]
-![Docker][badge-docker]
-![Kubernetes][badge-kubernetes]
-![Google Cloud][badge-gcloud]
 ![Neovim][badge-neovim]
 
 ## Featured On
 
-[Official Elixir Website][feat-slab-elixir] • [ThinkingElixir Podcast][feat-thinking-elixir] • [ElixirConf][talk-collab] • [Google Developers][gdg-community]
+[Official Elixir Website][feat-slab-elixir] • [ThinkingElixir Podcast][feat-thinking-elixir] • [ElixirWeekly][feat-elixirweekly] • [ElixirConf][talk-collab] • [Google Developers][gdg-community]
 
 ## Recognition
 
-- **Top 5 on Stack Overflow from Pakistan** - 76k+ rep, 7.4M+ reach, 400+ badges
-- **~4M+ package downloads** - 2.4M+ on [Hex][hex-profile], 1.4M+ on [RubyGems][gem-profile], and a few on others
+- Top 5 on Stack Overflow from Pakistan (76k+ rep, 7.4M+ reach, 400+ badges)
+- ~4M+ package downloads (2.4M+ on [Hex][hex-profile], 1.4M+ on [RubyGems][gem-profile], and a few on others)
 - 2.5k+ GitHub stars across personal projects
 - Interviewed by José Valim for the official [Elixir case study on Slab][feat-slab-elixir]
 - Co-founded GDG Lahore, the largest developer community in Pakistan
 - Spoke at ElixirConf, DevFest, Google I/O Extended and a bunch of Google Cloud events
-
-## Start Here
-
-- 💾 **[Memento][gh-memento]** (800+ stars, 750k+ downloads) - Distributed in-memory database for Elixir (Mnesia)
-- ⚡ **[Que][gh-que]** (680+ stars, 480k+ downloads) - Background jobs in Elixir, backed by Mnesia
-- 🛠️ **[capistrano-rake][gh-capistrano-rake]** (1.4M+ downloads) - Run rake tasks on your servers with Capistrano
-- 🔥 **[mongo-sync][gh-mongo-sync]** (300+ stars) - Sync your local and remote MongoDB in one command
-- 📝 **[Delta for Elixir][gh-delta]** (370+ stars) - The rich-text format behind Slab's real-time editor
-- 📦 **[dotfiles][gh-dotfiles]** (130+ stars) - My Neovim, shell and macOS setup
-- ☁️ **[CloudUp][gh-cloudup]** (100+ stars) - Dockerize and deploy your app in minutes
 
 ## Projects
 
@@ -86,9 +72,6 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 - **[Real-Time Collaboration with Operational Transform][talk-collab]**
 - [All talks][talks]
 
-## GitHub Activity
-
-![GitHub Contribution Graph][contrib-graph]
 
 ## Connect
 
@@ -123,6 +106,7 @@ I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep
 <!-- Featured -->
 [feat-slab-elixir]: https://bit.ly/SlabElixir
 [feat-thinking-elixir]: https://podcast.thinkingelixir.com/48
+[feat-elixirweekly]: https://elixirweekly.net
 
 <!-- GitHub -->
 [gh-memento]: https://github.com/sheharyarn/memento
