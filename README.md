@@ -1,6 +1,6 @@
 # Hi, I'm Sheharyar 👋
 
-📍 Lahore ↔ SF ↔ Vancouver | 🧑‍💻 Indie Nomad Dev | 🚀 Infra.one, Sruplex, Ex-Apple, Ex-TheScore, Ex-Slab
+📍 Lahore ↔ SFO ↔ YYC | 🧑‍💻 Indie Nomad Dev | 🚀 Infra.one, Sruplex, Ex-Apple, Ex-TheScore, Ex-Slab
 
 I'm a principal engineer highly experienced with Web, Cloud, and AI; with a deep focus on real-time and distributed applications. In my free time, I build open-source tools, write at [shyr.io][site], and answer questions on Stack Overflow. I'm also the co-founder of [GDG Lahore][gdglahore], the largest developer community of Pakistan.
 
